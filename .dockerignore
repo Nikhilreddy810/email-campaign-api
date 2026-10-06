@@ -1,0 +1,9 @@
+.git
+.github
+.gradle
+**/.gradle
+build
+**/build
+.env
+**/.env
+README.md
